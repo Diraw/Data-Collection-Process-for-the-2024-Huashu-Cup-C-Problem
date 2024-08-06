@@ -1,6 +1,6 @@
 # 华数杯2024C题数据集收集过程
 
-剩流：最终数据集为 [county_data_final_add_temp_clean.csv](https://github.com/Diraw/Data-Collection-Process-for-the-2024-Huashu-Cup-C-Problem/blob/main/county_data_final_add_temp_clean.csv)
+省流：最终数据集为 [county_data_final_add_temp_clean.csv](https://github.com/Diraw/Data-Collection-Process-for-the-2024-Huashu-Cup-C-Problem/blob/main/county_data_final_add_temp_clean.csv)
 
 
 ## 预处理
